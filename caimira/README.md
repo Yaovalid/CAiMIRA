@@ -1,7 +1,7 @@
 # CAiMIRA - CERN Airborne Model for Risk Assessment
 
 CAiMIRA is a risk assessment tool developed to model the concentration of viruses in enclosed spaces, in order to inform space-management decisions.
-Yao yao yao
+Yao yao
 CAiMIRA models the concentration profile of potential virions in enclosed spaces , both as background (room) concentration and during close-proximity interactions, with clear and intuitive graphs.
 The user can set a number of parameters, including room volume, exposure time, activity type, mask-wearing and ventilation.
 The report generated indicates how to avoid exceeding critical concentrations and chains of airborne transmission in spaces such as individual offices, meeting rooms and labs.
